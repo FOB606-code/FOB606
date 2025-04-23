@@ -7,5 +7,3 @@
 
 #### Let’s connect if you value curiosity, collaboration, and a passion for translating data into action.
 
-
-#### program: Excel,Postgre, power bi and python
